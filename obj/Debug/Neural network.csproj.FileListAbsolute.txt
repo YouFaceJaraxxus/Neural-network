@@ -1,0 +1,6 @@
+C:\Users\Milos\source\repos\Neural network\bin\Debug\Neural network.exe.config
+C:\Users\Milos\source\repos\Neural network\bin\Debug\Neural network.exe
+C:\Users\Milos\source\repos\Neural network\bin\Debug\Neural network.pdb
+C:\Users\Milos\source\repos\Neural network\obj\Debug\Neural network.csprojAssemblyReference.cache
+C:\Users\Milos\source\repos\Neural network\obj\Debug\Neural network.exe
+C:\Users\Milos\source\repos\Neural network\obj\Debug\Neural network.pdb
